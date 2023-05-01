@@ -20,7 +20,7 @@
 
             Acticity Log
 
-- ( Bemnet ) wrote the main driving files that are needed to implement our corresponding functions for the bitwise operations.
+- ( Bemnet ) wrote the main driving files that are needed to implement our corresponding functions for the program.
 
 - Role assignment 
     Daniel Hughes is assigned to
